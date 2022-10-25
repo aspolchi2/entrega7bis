@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "Nombre": "celular",
+    "Precio": 120
+  },
+  {
+    "Nombre": "joystick",
+    "Precio": 300
+  },
+  {
+    "Nombre": "microfono",
+    "Precio": 400
+  },
+  {
+    "Nombre": "maceta",
+    "Precio": 1000
+  },
+  {
+    "Nombre": "cuadro",
+    "Precio": 2000
+  },
+  {
+    "Nombre": "planta",
+    "Precio": 4000
+  },
+  {
+    "Nombre": "foquito",
+    "Precio": 4500
+  },
+  {
+    "Nombre": "totoro",
+    "Precio": 300
+  },
+  {
+    "Nombre": "marco",
+    "Precio": 1234
+  },
+  {
+    "Nombre": "puerta",
+    "Precio": 2345
+  }
+]
